@@ -73,6 +73,5 @@
 
 # Su clase deberá almacenar los productos en un HashMap, de tal forma que se pueda obtener de manera eficiente en orden de magnitud constante, para esto use un HashMap, haga uso de las clases vistas en el aula. Incluya todo el código de la declaración de la clase GestorProductos y un ejemplo del funcionamiento de los métodos relevantes. Incluya por lo menos: agregarProducto(...), eliminarProducto(...), actualizarExistencias(...), actualizarPrecio(...).
 
-
 # INICIO_SOLUCION
 # FIN_SOLUCION
